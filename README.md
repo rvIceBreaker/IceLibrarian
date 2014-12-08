@@ -5,4 +5,5 @@ IceLibrarian is a music library management application, designed to allow for ed
 
 IceLibrarian is a pretty old project at this point, and the code isn't maintained. However, I'm hosting it here for educational purposes for those interested.
 
-Depends on (and includes a build of) [[Taglib-Sharp|https://github.com/mono/taglib-sharp]]
+Depends on (and includes a build of) taglib-sharp
+https://github.com/mono/taglib-sharp
